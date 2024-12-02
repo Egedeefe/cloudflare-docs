@@ -1,11 +1,12 @@
 {
-	"recommendations": [
-		"mhutchie.git-graph",
-		"EditorConfig.EditorConfig",
-		"astro-build.astro-vscode",
-		"unifiedjs.vscode-mdx",
-		"bradlc.vscode-tailwindcss",
-		"redhat.vscode-yaml",
-		"esbenp.prettier-vscode"
-	]
+  "recommendations": [
+    "mhutchie.git-graph",
+    "EditorConfig.EditorConfig",
+    "astro-build.astro-vscode",
+    "unifiedjs.vscode-mdx",
+    "bradlc.vscode-tailwindcss",
+    "redhat.vscode-yaml",
+    "esbenp.prettier-vscode",
+    "satiromarra.vscode-php-test-explorer-docker"
+  ]
 }
